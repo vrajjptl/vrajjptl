@@ -15,7 +15,7 @@
 🔘I am looking forward to explore many new skills while facing numerous challenges and seek new opportunities.
 
 # 💫 About Me:
-🔭 Currently Crafting<br>Web applications that deliver great user experiences.<br><br>👯 Seeking Collaborators<br>Looking for fellow devs to innovate together!<br><br>🤝 In Need of Guidance<br>Help with Spring Boot, Java, microservices, and AWS.<br><br>🌱 Growing My Knowledge<br>Diving into Spring Boot, microservices, and AI tools.<br><br>💬 Let’s Chat About<br>Web development, tech trends, and AI advancements!<br><br>⚡ Fun Fact<br>I turn complex problems into elegant solutions—powered by coffee!
+🔭 Currently Crafting Web applications that deliver great user experiences.<br><br>👯 Seeking Collaborators Looking for fellow devs to innovate together!<br><br>🤝 In Need of Guidance Help with Spring Boot, Java, microservices, and AWS.<br><br>🌱 Growing My Knowledge Diving into Spring Boot, microservices, and AI tools.<br><br>💬 Let’s Chat About Web development, tech trends, and AI advancements!<br><br>⚡ Fun Fact I turn complex problems into elegant solutions—powered by coffee!
 
 
 ## 🌐 Socials:

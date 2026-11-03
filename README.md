@@ -74,18 +74,14 @@ I build practical and user-focused web applications, and I’m passionate about 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vrajjptl&theme=radical&hide_border=false&show_icons=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrajjptl&theme=radical&hide_border=false&layout=compact" alt="Top Languages" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vrajjptl&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vrajjptl&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vrajjptl&theme=github_dark" alt="Most Used Languages" />
 </p>
 
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vrajjptl&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=vrajjptl&theme=onedark" alt="GitHub Trophies" />
 </p>
 
 ---
